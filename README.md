@@ -2,6 +2,12 @@
 
 An interactive medical exam practice application built with React and TypeScript, powered by Google's Gemini AI for intelligent feedback and explanations.
 
+<img width="437" height="480" alt="Screenshot 2026-01-05 at 00 53 31" src="https://github.com/user-attachments/assets/13cfe9fb-ab2d-4f1f-b14c-fc54c23393fc" />
+
+<img width="520" height="411" alt="Screenshot 2026-01-05 at 00 53 19" src="https://github.com/user-attachments/assets/58e12f41-b105-4ccb-bd88-7ecbbc6e40d7" />
+
+<img width="1433" height="704" alt="Screenshot 2026-01-05 at 00 54 09" src="https://github.com/user-attachments/assets/f26f57ab-6a3b-41ab-b4d6-1a740c939802" />
+
 ## 📋 Features
 
 - **Multiple Question Types Support:**
