@@ -2,10 +2,6 @@
 
 An interactive medical exam practice application built with React and TypeScript, powered by Google's Gemini AI for intelligent feedback and explanations.
 
-## 🚀 Live Demo
-
-Try it here: [https://medexam-master-230454825548.us-west1.run.app/](https://medexam-master-230454825548.us-west1.run.app/)
-
 ## 📋 Features
 
 - **Multiple Question Types Support:**
@@ -143,4 +139,3 @@ This project is open source and available for educational purposes.
 ## 🔗 Links
 
 - Live Demo: [https://medexam-master-230454825548.us-west1.run.app/](https://medexam-master-230454825548.us-west1.run.app/)
-- Google Gemini AI: [https://ai.google.dev/](https://ai.google.dev/)

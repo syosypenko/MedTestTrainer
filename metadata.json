@@ -1,0 +1,5 @@
+{
+  "name": "MedExam Master",
+  "description": "A sophisticated examination system for medical students and professionals, supporting complex question types like MCQ, Kprim, and Grouping questions with AI-powered explanations.",
+  "requestFramePermissions": []
+}
